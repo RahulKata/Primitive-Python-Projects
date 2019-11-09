@@ -14,4 +14,5 @@ __Policy :)__
 
 + Ever wondered how to scrape required data from websites?
 + Ever wanted to create a simple instagram or twitter or any other web crawlers?
++ Ever wanted to make simple GUI's?
 
