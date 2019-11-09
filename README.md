@@ -9,3 +9,9 @@ __Policy :)__
 ---
 
 > I am not a Proficient Python Programmer yet so kindly exempt the redundant code
+
+---
+
++ Ever wondered how to scrape required data from websites?
++ Ever wanted to create a simple instagram or twitter or any other web crawlers?
+
